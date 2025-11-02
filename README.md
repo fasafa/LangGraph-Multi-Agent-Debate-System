@@ -50,6 +50,7 @@ This project simulates a structured **multi-agent debate** between two AI person
 ---
 
 ##  DAG Diagram
+<img width="619" height="513" alt="Image" src="https://github.com/user-attachments/assets/4dfae674-dd7a-4c6f-8e00-348ea0f98765" />
 
 ---
 
