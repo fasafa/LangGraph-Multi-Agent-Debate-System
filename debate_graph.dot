@@ -1,0 +1,20 @@
+digraph Debate {
+  rankdir=LR;
+  topic [label="User: Topic"];
+  "r1_Scientist" [label="R1\nScientist"];
+  "topic" -> "r1_Scientist";
+  "r2_Philosopher" [label="R2\nPhilosopher"];
+  "r1_Scientist" -> "r2_Philosopher";
+  "r3_Scientist" [label="R3\nScientist"];
+  "r2_Philosopher" -> "r3_Scientist";
+  "r4_Philosopher" [label="R4\nPhilosopher"];
+  "r3_Scientist" -> "r4_Philosopher";
+  "r5_Scientist" [label="R5\nScientist"];
+  "r4_Philosopher" -> "r5_Scientist";
+  "r6_Philosopher" [label="R6\nPhilosopher"];
+  "r5_Scientist" -> "r6_Philosopher";
+  "r7_Scientist" [label="R7\nScientist"];
+  "r6_Philosopher" -> "r7_Scientist";
+  "r8_Philosopher" [label="R8\nPhilosopher"];
+  "r7_Scientist" -> "r8_Philosopher";
+}

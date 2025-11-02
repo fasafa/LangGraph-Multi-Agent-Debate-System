@@ -1,0 +1,12 @@
+Winner: Philosopher
+Justification: Philosopher scored 32.60 vs Scientist 31.40 (higher novelty/content).
+
+Full Summary:
+Round 1 [Scientist]: The opponent's argument:.
+Round 2 [Philosopher]: (You can use any sentence, but be sure to provide a reason for your selection.
+Round 3 [Scientist]: It must use language from the original text.
+Round 4 [Philosopher]: The argument should be an argument for a position.
+Round 5 [Scientist]: The argument should include a call to action.
+Round 6 [Philosopher]: The argument should be 100-200 words in length.
+Round 7 [Scientist]: The scientist should be able to explain the logic behind the argument and use a specific example to support their argument.
+Round 8 [Philosopher]: The philosopher should use a specific example to support their argument.

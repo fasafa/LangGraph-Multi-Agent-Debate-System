@@ -1,0 +1,106 @@
+{
+  "topic": "Should AI be regulated like medicine?",
+  "timestamp": "2025-11-02T03:51:59.792768Z",
+  "memory": [
+    {
+      "round": 1,
+      "speaker": "Scientist",
+      "argument": "The opponent's argument:.",
+      "timestamp": "2025-11-02T03:50:29.727920Z"
+    },
+    {
+      "round": 2,
+      "speaker": "Philosopher",
+      "argument": "(You can use any sentence, but be sure to provide a reason for your selection.",
+      "timestamp": "2025-11-02T03:50:37.292563Z"
+    },
+    {
+      "round": 3,
+      "speaker": "Scientist",
+      "argument": "It must use language from the original text.",
+      "timestamp": "2025-11-02T03:50:49.950567Z"
+    },
+    {
+      "round": 4,
+      "speaker": "Philosopher",
+      "argument": "The argument should be an argument for a position.",
+      "timestamp": "2025-11-02T03:51:07.179126Z"
+    },
+    {
+      "round": 5,
+      "speaker": "Scientist",
+      "argument": "The argument should include a call to action.",
+      "timestamp": "2025-11-02T03:51:11.255771Z"
+    },
+    {
+      "round": 6,
+      "speaker": "Philosopher",
+      "argument": "The argument should be 100-200 words in length.",
+      "timestamp": "2025-11-02T03:51:29.232828Z"
+    },
+    {
+      "round": 7,
+      "speaker": "Scientist",
+      "argument": "The scientist should be able to explain the logic behind the argument and use a specific example to support their argument.",
+      "timestamp": "2025-11-02T03:51:48.868071Z"
+    },
+    {
+      "round": 8,
+      "speaker": "Philosopher",
+      "argument": "The philosopher should use a specific example to support their argument.",
+      "timestamp": "2025-11-02T03:51:59.781784Z"
+    }
+  ],
+  "judgment": {
+    "topic": "Should AI be regulated like medicine?",
+    "scores": {
+      "Scientist": 31.4,
+      "Philosopher": 32.6
+    },
+    "per_round_scores": [
+      {
+        "round": 1,
+        "speaker": "Scientist",
+        "score": 4.0
+      },
+      {
+        "round": 2,
+        "speaker": "Philosopher",
+        "score": 18.0
+      },
+      {
+        "round": 3,
+        "speaker": "Scientist",
+        "score": 7.6
+      },
+      {
+        "round": 4,
+        "speaker": "Philosopher",
+        "score": 5.8
+      },
+      {
+        "round": 5,
+        "speaker": "Scientist",
+        "score": 4.6
+      },
+      {
+        "round": 6,
+        "speaker": "Philosopher",
+        "score": 5.6
+      },
+      {
+        "round": 7,
+        "speaker": "Scientist",
+        "score": 15.2
+      },
+      {
+        "round": 8,
+        "speaker": "Philosopher",
+        "score": 3.2
+      }
+    ],
+    "winner": "Philosopher",
+    "justification": "Philosopher scored 32.60 vs Scientist 31.40 (higher novelty/content).",
+    "summary": "Round 1 [Scientist]: The opponent's argument:.\nRound 2 [Philosopher]: (You can use any sentence, but be sure to provide a reason for your selection.\nRound 3 [Scientist]: It must use language from the original text.\nRound 4 [Philosopher]: The argument should be an argument for a position.\nRound 5 [Scientist]: The argument should include a call to action.\nRound 6 [Philosopher]: The argument should be 100-200 words in length.\nRound 7 [Scientist]: The scientist should be able to explain the logic behind the argument and use a specific example to support their argument.\nRound 8 [Philosopher]: The philosopher should use a specific example to support their argument."
+  }
+}

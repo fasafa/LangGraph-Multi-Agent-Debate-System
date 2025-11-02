@@ -1,0 +1,4 @@
+transformers==4.46.0
+torch>=2.2.0
+accelerate
+langchain

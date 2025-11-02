@@ -1,0 +1,8 @@
+Scientist: The opponent's argument:.
+Philosopher: (You can use any sentence, but be sure to provide a reason for your selection.
+Scientist: It must use language from the original text.
+Philosopher: The argument should be an argument for a position.
+Scientist: The argument should include a call to action.
+Philosopher: The argument should be 100-200 words in length.
+Scientist: The scientist should be able to explain the logic behind the argument and use a specific example to support their argument.
+Philosopher: The philosopher should use a specific example to support their argument.
